@@ -1,6 +1,6 @@
 {
   "name": "leaflet.pm-measure-path",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "description": "This package combine leaflet.pm package with leaflet-measure-path package to enhance the drawing tool with measurements",
   "main": "dist/leaflet.pm-measure-path.min.js",
   "scripts": {
