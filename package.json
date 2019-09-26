@@ -9,7 +9,8 @@
   "bundleDependencies": false,
   "deprecated": false,
   "peerDependencies": {
-    "leaflet": "^1.2.0"
+    "leaflet": "^1.2.0",
+    "leaflet-measure-path": "^1.4.2"
   },
   "keywords": [
     "node",
@@ -23,7 +24,6 @@
     "@turf/intersect": "^6.1.3",
     "@turf/kinks": "6.x",
     "lodash": "^4.17.15",
-    "leaflet-measure-path": "^1.4.2"
   },
   "author": {
     "name": "Farista Latuconsina",
