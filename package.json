@@ -1,0 +1,42 @@
+{
+  "name": "leaflet.pm-measure-path",
+  "version": "0.1.0",
+  "description": "This package combine leaflet.pm package with leaflet-measure-path package to enhance the drawing tool with measurements",
+  "main": "dist/leaflet.pm-measure-path.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "peerDependencies": {
+    "leaflet": "^1.2.0"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "leaflet",
+    "leaflet.pm",
+    "leaflet-measure-path"
+  ],
+  "dependencies": {
+    "@turf/difference": "^6.0.2",
+    "@turf/intersect": "^6.1.3",
+    "@turf/kinks": "6.x",
+    "lodash": "^4.17.15",
+    "leaflet-measure-path": "^1.4.2"
+  },
+  "author": {
+    "name": "Farista Latuconsina",
+    "email": "faristalatuconsina@gmail.com"
+  },
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 2,
+    "semi": true,
+    "singleQuote": true
+  }
+}
